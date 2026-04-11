@@ -55,6 +55,3 @@ If you'd like to build the project from scratch or modify the scoring logic:
 *   **Badges not showing in list**: If LinkedIn refreshes its layout, simply refresh your browser tab to re-trigger the automatic badging.
 
 ---
-
-## 🛡️ License
-Built for job seekers everywhere. **v1.1-STABLE** (Linear Math Engine).
